@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4JDbfBu/V5k=",
+  "dgSpecHash": "cPJE45zkjGQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\antho\\source\\repos\\HuellasAutomak\\HuellasAutomarkAPI.Infrastructure\\HuellasAutomarkAPI.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\antho\\source\\repos\\HuellasAutomarkApi\\HuellasAutomarkAPI.Infrastructure\\HuellasAutomarkAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antho\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.8\\microsoft.entityframeworkcore.9.0.8.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WE9CE/feGYg=",
+  "dgSpecHash": "fC3i72iqofM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\antho\\source\\repos\\HuellasAutomak\\HuellasAutomarkAPI.Application\\HuellasAutomarkAPI.Application.csproj",
+  "projectFilePath": "C:\\Users\\antho\\source\\repos\\HuellasAutomarkApi\\HuellasAutomarkAPI.Application\\HuellasAutomarkAPI.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antho\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.8\\microsoft.entityframeworkcore.9.0.8.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.8\\microsoft.entityframeworkcore.abstractions.9.0.8.nupkg.sha512",

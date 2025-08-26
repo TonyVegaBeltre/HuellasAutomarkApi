@@ -26,3 +26,15 @@ C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Domain\obj\Debug\n
 C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Domain\obj\Debug\net9.0\refint\HuellasAutomarkAPI.Domain.dll
 C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Domain\obj\Debug\net9.0\HuellasAutomarkAPI.Domain.pdb
 C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Domain\obj\Debug\net9.0\ref\HuellasAutomarkAPI.Domain.dll
+C:\Users\antho\source\repos\HuellasAutomarkApi\HuellasAutomarkAPI.Domain\bin\Debug\net9.0\HuellasAutomarkAPI.Domain.deps.json
+C:\Users\antho\source\repos\HuellasAutomarkApi\HuellasAutomarkAPI.Domain\bin\Debug\net9.0\HuellasAutomarkAPI.Domain.dll
+C:\Users\antho\source\repos\HuellasAutomarkApi\HuellasAutomarkAPI.Domain\bin\Debug\net9.0\HuellasAutomarkAPI.Domain.pdb
+C:\Users\antho\source\repos\HuellasAutomarkApi\HuellasAutomarkAPI.Domain\obj\Debug\net9.0\HuellasAutomarkAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\source\repos\HuellasAutomarkApi\HuellasAutomarkAPI.Domain\obj\Debug\net9.0\HuellasAutomarkAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\HuellasAutomarkApi\HuellasAutomarkAPI.Domain\obj\Debug\net9.0\HuellasAutomarkAPI.Domain.AssemblyInfo.cs
+C:\Users\antho\source\repos\HuellasAutomarkApi\HuellasAutomarkAPI.Domain\obj\Debug\net9.0\HuellasAutomarkAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\HuellasAutomarkApi\HuellasAutomarkAPI.Domain\obj\Debug\net9.0\HuellasAutomarkAPI.Domain.sourcelink.json
+C:\Users\antho\source\repos\HuellasAutomarkApi\HuellasAutomarkAPI.Domain\obj\Debug\net9.0\HuellasAutomarkAPI.Domain.dll
+C:\Users\antho\source\repos\HuellasAutomarkApi\HuellasAutomarkAPI.Domain\obj\Debug\net9.0\refint\HuellasAutomarkAPI.Domain.dll
+C:\Users\antho\source\repos\HuellasAutomarkApi\HuellasAutomarkAPI.Domain\obj\Debug\net9.0\HuellasAutomarkAPI.Domain.pdb
+C:\Users\antho\source\repos\HuellasAutomarkApi\HuellasAutomarkAPI.Domain\obj\Debug\net9.0\ref\HuellasAutomarkAPI.Domain.dll
