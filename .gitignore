@@ -1,0 +1,13 @@
+.vs/
+*.vscode
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+Debug/
+Release/
+
+# Otros
+*.log
