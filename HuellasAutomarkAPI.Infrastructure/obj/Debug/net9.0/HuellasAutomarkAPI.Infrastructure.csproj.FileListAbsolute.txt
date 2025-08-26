@@ -1,0 +1,17 @@
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\bin\Debug\net9.0\HuellasAutomarkAPI.Infrastructure.deps.json
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\bin\Debug\net9.0\HuellasAutomarkAPI.Infrastructure.dll
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\bin\Debug\net9.0\HuellasAutomarkAPI.Infrastructure.pdb
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\bin\Debug\net9.0\HuellasAutomarkAPI.Domain.dll
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\bin\Debug\net9.0\HuellasAutomarkAPI.Domain.pdb
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\obj\Debug\net9.0\HuellasAutomarkAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\obj\Debug\net9.0\HuellasAutomarkAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\obj\Debug\net9.0\HuellasAutomarkAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\obj\Debug\net9.0\HuellasAutomarkAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\obj\Debug\net9.0\HuellasAutomarkAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\obj\Debug\net9.0\HuellasA.23CDF395.Up2Date
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\obj\Debug\net9.0\HuellasAutomarkAPI.Infrastructure.dll
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\obj\Debug\net9.0\refint\HuellasAutomarkAPI.Infrastructure.dll
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\obj\Debug\net9.0\HuellasAutomarkAPI.Infrastructure.pdb
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\obj\Debug\net9.0\ref\HuellasAutomarkAPI.Infrastructure.dll
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\bin\Debug\net9.0\HuellasAutomarkAPI.Application.dll
+C:\Users\antho\source\repos\HuellasAutomak\HuellasAutomarkAPI.Infrastructure\bin\Debug\net9.0\HuellasAutomarkAPI.Application.pdb
