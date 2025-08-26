@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HuellasAutomarkAPI.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82467e42ddbf2f9b06ebea2e3bef91c04437bd67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a635e32e07a46f9f0d14173f0f0e0f9b0e87479")]
 [assembly: System.Reflection.AssemblyProductAttribute("HuellasAutomarkAPI.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HuellasAutomarkAPI.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
